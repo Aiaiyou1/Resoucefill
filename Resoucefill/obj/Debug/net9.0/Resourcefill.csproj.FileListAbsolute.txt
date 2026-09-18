@@ -1,0 +1,22 @@
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\bin\Debug\net9.0\HttpServer.dll
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\bin\Debug\net9.0\Resourcefill.deps.json
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\bin\Debug\net9.0\Resourcefill.dll
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\bin\Debug\net9.0\Resourcefill.pdb
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\Resourcefill.csproj.AssemblyReference.cache
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\Resourcefill.GeneratedMSBuildEditorConfig.editorconfig
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\Resourcefill.csproj.CoreCompileInputs.cache
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\Resourcefill.dll
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\refint\Resourcefill.dll
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\Resourcefill.pdb
+D:\TShockPlugin-master\src\【Net9】插件编写模版 for TShock 6.1.0\obj\Debug\net9.0\ref\Resourcefill.dll
+D:\TShockPlugin-master\src\Resoucefill\bin\Debug\net9.0\HttpServer.dll
+D:\TShockPlugin-master\src\Resoucefill\bin\Debug\net9.0\Resourcefill.deps.json
+D:\TShockPlugin-master\src\Resoucefill\bin\Debug\net9.0\Resourcefill.dll
+D:\TShockPlugin-master\src\Resoucefill\bin\Debug\net9.0\Resourcefill.pdb
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\Resourcefill.csproj.AssemblyReference.cache
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\Resourcefill.GeneratedMSBuildEditorConfig.editorconfig
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\Resourcefill.csproj.CoreCompileInputs.cache
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\Resourcefill.dll
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\refint\Resourcefill.dll
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\Resourcefill.pdb
+D:\TShockPlugin-master\src\Resoucefill\obj\Debug\net9.0\ref\Resourcefill.dll

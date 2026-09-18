@@ -1,0 +1,8 @@
+copy bin\debug\net9.0\Plugin.dll C:\Users\羽学\Desktop\Beta\ServerPlugins
+copy bin\debug\net9.0\Plugin.pdb C:\Users\羽学\Desktop\Beta\ServerPlugins
+del "C:\Users\羽学\Desktop\Beta\tshock\插件模板.json"
+taskkill /F /IM TShock.Server.exe
+
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+		<Exec Command="copy bin\debug\net9.0\Plugin.dll C:\Users\羽学\Desktop\Beta\ServerPlugins&#xD;&#xA;copy bin\debug\net9.0\Plugin.pdb C:\Users\羽学\Desktop\Beta\ServerPlugins&#xD;&#xA;del &quot;C:\Users\羽学\Desktop\Beta\tshock\插件模板.json&quot;&#xD;&#xA;taskkill /F /IM TShock.Server.exe" />
+	</Target>
